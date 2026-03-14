@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "title":"Rock Paper Scissors",
+        "description":"A simple Rock Paper Scissors game built with JavaScript where the player competes against the computer. The game randomly generates the computer’s choice, compares it with the player's selection, and displays the result dynamically in the browser.",
+        "tech":["JavaScript","HTML"],
+        "github":"https://damjanmitov8.github.io/Rock-Paper-Scissors-Game/",
+        "live":"https://damjanmitov8.github.io/Rock-Paper-Scissors-Game/"
+    },
+
+    {
+        "id": 2,
+        "title":"CountryPedia",
+        "description":"An interactive web application that displays information about different countries – such as capital, population, neighboring countries, and other key data. Users can easily search and explore the data in a visual and user-friendly way.",
+        "tech":["HTML","JavaScript","CSS","Boostraps"],
+        "github":"",
+        "live":""
+    },
+
+    {
+        "id": 3,
+        "title":"Web E-Commerce",
+        "description":"An online shopping platform that allows users to browse products, add items to a cart, and complete purchases. Features include categories, filters, and detailed product information with an intuitive interface.",
+        "tech":["HTML","JavaScript","CSS","Boostraps"],
+        "github":"",
+        "live":""
+    }
+]
